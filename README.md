@@ -72,25 +72,15 @@ I am currently expanding my skills across JavaScript, Python, Java, C++, and Lua
 
 <div align="center">
 
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rullkuch&theme=github_dark"
-alt="RullVelion GitHub stats">
-
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rullkuch&theme=github_dark"
-alt="RullVelion top languages">
-
-<br><br>
-
 <img
 src="https://streak-stats.demolab.com?user=rullkuch&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"
 alt="RullVelion GitHub streak">
 
 <br><br>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rullkuch&theme=github_dark"
-alt="RullVelion contribution graph">
+<p>
+My complete contribution activity is displayed below this profile README.
+</p>
 
 </div>
 

@@ -6,7 +6,7 @@
 
 <img src="./assets/avatar.png" width="160" alt="RullVelion avatar">
 
-# Hi, I'm RullVelion 👋
+# Hello World, I'm RullVelion 👨‍💻
 
 ### JavaScript · Python · Java · C++ · Lua Enthusiast
 
